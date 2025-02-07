@@ -1,0 +1,54 @@
+.h-primary{
+    margin: 0px auto;
+}
+
+
+/* --------------------Navigation Menu------------------------ */
+#navbar{
+    width: 38rem;
+    flex-direction: column;
+}
+
+/* -------------------Home------------------------------- */
+#home::before{
+    width: 38rem;
+}
+#home{
+    width: 38rem;
+}
+
+/* ------------------Services--------------------------- */
+#services{
+    margin: 1.6rem 0px;
+    width: 38rem;
+}
+.s-boxes{
+    flex-direction: column;
+    align-items: center;
+}
+.s-box{
+    width: 25rem;
+}
+
+/* ----------------------Clients--------------------------------- */
+#clients{
+    height: max-content;
+    width: 38rem;
+}
+.client{
+    flex-direction: column;
+}
+#clients img{
+    margin: 2rem;
+    
+}
+
+/* -------------------------Contact Us----------------------------------- */
+#contact{
+    width: 38rem;
+}
+
+/* -----------------------------footer------------------------------------- */
+footer{
+    width: 38rem;
+}
